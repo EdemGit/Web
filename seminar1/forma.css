@@ -1,0 +1,56 @@
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    background-color: Pink;
+    padding: 16px 32px;
+    margin: 4px 2px;
+}
+.auto1 {
+    color: red
+}
+button {
+    appearance:none;
+    -webkit-appearance:none;
+    padding:10px;
+    border:none;
+    background-color:#3F51B5;
+    color:#fff;
+    font-weight:600;
+    border-radius:5px;
+    width:100%;
+  }
+.zad8a5 {
+    color: burlywood
+}
+.zad8a6 {
+    color: cadetblue
+}
+.zad8a7 {
+    color: chartreuse
+}
+.zad8a8 {
+    color: coral
+}
+.zad8a9 {
+    color: darkgoldenrod
+}
+.ramka{
+border: 2px solid #00a8e1
+}
+.head{
+    font-size: 500%
+    
+}
+#form1{
+    width: 150px;
+    height: 180px;
+    background: whitesmoke;
+    border-radius: 6%;
+}
+h1{
+
+}
